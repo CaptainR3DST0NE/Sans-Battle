@@ -1,6 +1,8 @@
 0,SansAnimation,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,
-0,SansText,ready?,,,,,,,
+0,SansText,it's a beautiful day outside.,,,,,,,
+0,SansText,birds are singing, flowers are blooming.,,,,,,,
+0,SansText,on days like these, kids like you...,,,,,,,
 0,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
 0.06666,BlackScreen,0,,,,,,,
@@ -36,5 +38,6 @@
 0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 3,SansHead,Default,,,,,,,
-0,SansText,here we go.,,,,,,,
+0,SansText,huh.,,,,,,,
+0,SansText,i always wondered why people don't use their most powerful attack first.,,,,,,,
 0,EndAttack,,,,,,,,
